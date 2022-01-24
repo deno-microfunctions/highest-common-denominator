@@ -1,5 +1,6 @@
 # Highest Common Denominator
 
+---
 ## Usage Example
 
 ```ts
@@ -12,6 +13,8 @@ console.log(getHighestCommonDenominator(21, 14))
 
 ---
 
+---
+
 ## Execute Usage Example  
 ```sh
 
@@ -19,6 +22,9 @@ deno run https://deno.land/x/gethighestcommondenominator/src/gethighestcommonden
 
 ```
 
+---
+
+---
 ## Execute Unit Tests  
 
 ```sh
@@ -27,4 +33,5 @@ deno test https://deno.land/x/gethighestcommondenominator/src/gethighestcommonde
 
 ```
 
+---
 
