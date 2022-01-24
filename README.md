@@ -29,7 +29,7 @@ deno run https://deno.land/x/gethighestcommondenominator/usage-example.ts
 
 ```sh
 
-deno test https://deno.land/x/gethighestcommondenominator/src/gethighestcommondenominator.spec.ts
+deno test https://deno.land/x/gethighestcommondenominator/src/getHighestCommonDenominator.spec.ts
 
 ```
 
