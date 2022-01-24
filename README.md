@@ -7,7 +7,7 @@
 
 import { getHighestCommonDenominator } from "https://deno.land/x/getHighestCommonDenominator/mod.ts"
 
-console.log(getHighestCommonDenominator(21, 14))
+console.log(getHighestCommonDenominator(21, 14)) // 7
 
 ```
 
