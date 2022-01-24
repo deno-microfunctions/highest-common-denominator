@@ -18,7 +18,7 @@ console.log(getHighestCommonDenominator(21, 14)) // 7
 ## Execute Usage Example  
 ```sh
 
-deno run https://deno.land/x/gethighestcommondenominator/src/gethighestcommondenominator.ts
+deno run https://deno.land/x/gethighestcommondenominator/usage-example.ts
 
 ```
 
