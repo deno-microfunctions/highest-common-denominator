@@ -5,7 +5,7 @@
 
 ```ts
 
-import { getHighestCommonDenominator } from "https://deno.land/x/getHighestCommonDenominator/mod.ts"
+import { getHighestCommonDenominator } from "https://deno.land/x/gethighestcommondenominator/mod.ts"
 
 console.log(getHighestCommonDenominator(21, 14)) // 7
 
