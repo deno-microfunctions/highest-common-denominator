@@ -7,10 +7,16 @@ Deno.test("should provide the highest common denominator", async () => {
 
     assertEquals(getHighestCommonDenominator(21, 14), 7)
 
+    assertEquals(getHighestCommonDenominator(52, 4), 4)
+
     assertEquals(getHighestCommonDenominator(18, 20000), 2)
 
     assertEquals(getHighestCommonDenominator(23, 18), 1)
 
     assertEquals(getHighestCommonDenominator(23, 18), 1)
+
+    assertEquals(getHighestCommonDenominator(20, 20), 20)
+
+    assertEquals(getHighestCommonDenominator(20, 1), 1)
 
 })
